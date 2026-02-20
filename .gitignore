@@ -1,0 +1,13 @@
+/.idea
+.__pycache__
+.idea*
+__pycache__*
+.DS_Store
+
+__pycache__/
+
+/venv/
+
+/cablo/
+/cablo/*
+cablo

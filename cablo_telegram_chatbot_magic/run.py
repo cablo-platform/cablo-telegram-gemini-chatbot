@@ -3,7 +3,7 @@ import os
 import time
 from collections import defaultdict
 from cablo.services.telegram.actions import _get_client, telegram_login_request, telegram_login_confirm
-from cablo.services.Gemini.actions import generate_G2_flash
+from cablo.services.gemini.actions import generate_G2_flash
 
 
 SESSION_FILE = "session.txt"
